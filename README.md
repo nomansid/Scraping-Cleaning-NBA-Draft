@@ -7,5 +7,6 @@ I use the pandas module to store/manipulate the data.
 I use the numpy module for other computing with the data.
 I use the matplotlib and seaborn modules to create some data visualizations.
 
+Using IPython notebook foer easy gui interaction
 
 
