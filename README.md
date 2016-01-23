@@ -1,4 +1,4 @@
-# Scraping & Cleaning NBA-Draft
+# Visualizing NBA Data
 
 Just learning some python modules for scraping and visualizing data through the use of NBA draft data over the year.
 
